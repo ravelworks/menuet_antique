@@ -1,0 +1,510 @@
+{
+	"limit":50,
+	"result":"success",
+	"count":327,
+	"lastUpdate":"2014-10-09 18:05:53",
+	"next":true,
+	"data":[
+		{
+			"oid":1,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:50:36",
+			"latitude":37.489047,
+			"longitude":139.929866,
+			"altitude":256.0,
+			"speed":0.25,
+			"course":103.800003
+		},
+		{
+			"oid":2,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:51:06",
+			"latitude":37.489084,
+			"longitude":139.929807,
+			"altitude":279.0,
+			"speed":0.25,
+			"course":103.800003
+		},
+		{
+			"oid":3,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:52:06",
+			"latitude":37.489169,
+			"longitude":139.930295,
+			"altitude":268.0,
+			"speed":2.0,
+			"course":116.900002
+		},
+		{
+			"oid":4,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:53:06",
+			"latitude":37.489138,
+			"longitude":139.930731,
+			"altitude":245.0,
+			"speed":1.25,
+			"course":0.7
+		},
+		{
+			"oid":5,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:53:36",
+			"latitude":37.489236,
+			"longitude":139.931068,
+			"altitude":269.0,
+			"speed":0.75,
+			"course":0.7
+		},
+		{
+			"oid":6,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:54:06",
+			"latitude":37.489501,
+			"longitude":139.931196,
+			"altitude":264.0,
+			"speed":1.25,
+			"course":345.899994
+		},
+		{
+			"oid":7,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:55:08",
+			"latitude":37.489507,
+			"longitude":139.931297,
+			"altitude":260.0,
+			"speed":0.0,
+			"course":0.0
+		},
+		{
+			"oid":8,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:56:06",
+			"latitude":37.489644,
+			"longitude":139.930703,
+			"altitude":269.0,
+			"speed":1.0,
+			"course":150.300003
+		},
+		{
+			"oid":9,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:56:36",
+			"latitude":37.489653,
+			"longitude":139.930687,
+			"altitude":270.0,
+			"speed":1.0,
+			"course":324.200012
+		},
+		{
+			"oid":10,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:57:37",
+			"latitude":37.489483,
+			"longitude":139.930714,
+			"altitude":268.0,
+			"speed":0.75,
+			"course":181.399994
+		},
+		{
+			"oid":11,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:58:36",
+			"latitude":37.489899,
+			"longitude":139.930382,
+			"altitude":216.0,
+			"speed":0.25,
+			"course":65.099998
+		},
+		{
+			"oid":12,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 10:59:35",
+			"latitude":37.490112,
+			"longitude":139.930087,
+			"altitude":265.0,
+			"speed":0.5,
+			"course":130.699997
+		},
+		{
+			"oid":13,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:00:05",
+			"latitude":37.489909,
+			"longitude":139.930175,
+			"altitude":267.0,
+			"speed":0.5,
+			"course":287.600006
+		},
+		{
+			"oid":14,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:00:35",
+			"latitude":37.489798,
+			"longitude":139.930159,
+			"altitude":282.0,
+			"speed":0.25,
+			"course":323.899994
+		},
+		{
+			"oid":15,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:01:05",
+			"latitude":37.490416,
+			"longitude":139.93023,
+			"altitude":241.0,
+			"speed":1.25,
+			"course":244.100006
+		},
+		{
+			"oid":16,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:01:35",
+			"latitude":37.490422,
+			"longitude":139.930336,
+			"altitude":291.0,
+			"speed":0.75,
+			"course":244.100006
+		},
+		{
+			"oid":17,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:02:05",
+			"latitude":37.490604,
+			"longitude":139.929991,
+			"altitude":210.0,
+			"speed":0.5,
+			"course":351.700012
+		},
+		{
+			"oid":18,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:02:37",
+			"latitude":37.490805,
+			"longitude":139.930318,
+			"altitude":240.0,
+			"speed":0.75,
+			"course":298.600006
+		},
+		{
+			"oid":19,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:03:35",
+			"latitude":37.490685,
+			"longitude":139.930335,
+			"altitude":259.0,
+			"speed":0.5,
+			"course":298.600006
+		},
+		{
+			"oid":20,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:04:05",
+			"latitude":37.490844,
+			"longitude":139.930054,
+			"altitude":266.0,
+			"speed":2.0,
+			"course":132.600006
+		},
+		{
+			"oid":21,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:04:35",
+			"latitude":37.491009,
+			"longitude":139.930492,
+			"altitude":281.0,
+			"speed":0.5,
+			"course":132.600006
+		},
+		{
+			"oid":22,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:05:05",
+			"latitude":37.491208,
+			"longitude":139.930553,
+			"altitude":332.0,
+			"speed":3.25,
+			"course":49.200001
+		},
+		{
+			"oid":23,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:05:35",
+			"latitude":37.491288,
+			"longitude":139.930438,
+			"altitude":256.0,
+			"speed":0.5,
+			"course":231.399994
+		},
+		{
+			"oid":24,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:06:35",
+			"latitude":37.491545,
+			"longitude":139.930493,
+			"altitude":278.0,
+			"speed":1.0,
+			"course":273.299988
+		},
+		{
+			"oid":25,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:07:05",
+			"latitude":37.491854,
+			"longitude":139.930357,
+			"altitude":252.0,
+			"speed":0.75,
+			"course":11.0
+		},
+		{
+			"oid":26,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:07:35",
+			"latitude":37.491806,
+			"longitude":139.93067,
+			"altitude":313.0,
+			"speed":1.030776,
+			"course":137.300003
+		},
+		{
+			"oid":27,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:08:05",
+			"latitude":37.491966,
+			"longitude":139.93056,
+			"altitude":321.0,
+			"speed":1.5,
+			"course":0.0
+		},
+		{
+			"oid":28,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:08:35",
+			"latitude":37.492381,
+			"longitude":139.930598,
+			"altitude":278.0,
+			"speed":3.535534,
+			"course":322.899994
+		},
+		{
+			"oid":29,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:09:05",
+			"latitude":37.492666,
+			"longitude":139.930694,
+			"altitude":247.0,
+			"speed":1.414214,
+			"course":329.0
+		},
+		{
+			"oid":30,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:09:35",
+			"latitude":37.492865,
+			"longitude":139.93087,
+			"altitude":278.0,
+			"speed":0.75,
+			"course":346.600006
+		},
+		{
+			"oid":31,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:10:05",
+			"latitude":37.493202,
+			"longitude":139.930911,
+			"altitude":288.0,
+			"speed":1.75,
+			"course":87.400002
+		},
+		{
+			"oid":32,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:10:35",
+			"latitude":37.493574,
+			"longitude":139.930961,
+			"altitude":265.0,
+			"speed":2.25,
+			"course":334.799988
+		},
+		{
+			"oid":33,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:11:05",
+			"latitude":37.493736,
+			"longitude":139.931088,
+			"altitude":276.0,
+			"speed":1.25,
+			"course":7.1
+		},
+		{
+			"oid":34,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:11:35",
+			"latitude":37.494193,
+			"longitude":139.931182,
+			"altitude":277.0,
+			"speed":1.5,
+			"course":351.5
+		},
+		{
+			"oid":35,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:12:05",
+			"latitude":37.494447,
+			"longitude":139.931122,
+			"altitude":285.0,
+			"speed":0.25,
+			"course":351.5
+		},
+		{
+			"oid":36,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:12:35",
+			"latitude":37.494522,
+			"longitude":139.931265,
+			"altitude":276.0,
+			"speed":1.25,
+			"course":8.9
+		},
+		{
+			"oid":37,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:13:05",
+			"latitude":37.494805,
+			"longitude":139.931311,
+			"altitude":275.0,
+			"speed":1.5,
+			"course":35.599998
+		},
+		{
+			"oid":38,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:13:35",
+			"latitude":37.494977,
+			"longitude":139.931401,
+			"altitude":274.0,
+			"speed":0.5,
+			"course":35.599998
+		},
+		{
+			"oid":39,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:14:05",
+			"latitude":37.495036,
+			"longitude":139.930915,
+			"altitude":280.0,
+			"speed":1.0,
+			"course":255.0
+		},
+		{
+			"oid":40,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:14:36",
+			"latitude":37.495065,
+			"longitude":139.931117,
+			"altitude":310.0,
+			"speed":2.5,
+			"course":36.799999
+		},
+		{
+			"oid":41,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:15:37",
+			"latitude":37.495108,
+			"longitude":139.930464,
+			"altitude":293.0,
+			"speed":1.75,
+			"course":293.799988
+		},
+		{
+			"oid":42,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:16:37",
+			"latitude":37.495227,
+			"longitude":139.930136,
+			"altitude":290.0,
+			"speed":1.0,
+			"course":270.399994
+		},
+		{
+			"oid":43,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:17:37",
+			"latitude":37.494787,
+			"longitude":139.930038,
+			"altitude":296.0,
+			"speed":0.0,
+			"course":0.0
+		},
+		{
+			"oid":44,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:18:35",
+			"latitude":37.49549,
+			"longitude":139.92999,
+			"altitude":278.0,
+			"speed":1.0,
+			"course":254.100006
+		},
+		{
+			"oid":45,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:19:07",
+			"latitude":37.49524,
+			"longitude":139.929842,
+			"altitude":291.0,
+			"speed":1.5,
+			"course":192.600006
+		},
+		{
+			"oid":46,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:20:05",
+			"latitude":37.495122,
+			"longitude":139.930051,
+			"altitude":289.0,
+			"speed":0.5,
+			"course":40.900002
+		},
+		{
+			"oid":47,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:20:35",
+			"latitude":37.495082,
+			"longitude":139.929865,
+			"altitude":291.0,
+			"speed":3.75,
+			"course":138.800003
+		},
+		{
+			"oid":48,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:22:08",
+			"latitude":37.494917,
+			"longitude":139.929007,
+			"altitude":277.0,
+			"speed":1.75,
+			"course":190.0
+		},
+		{
+			"oid":49,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:23:05",
+			"latitude":37.495052,
+			"longitude":139.928871,
+			"altitude":295.0,
+			"speed":0.5,
+			"course":273.0
+		},
+		{
+			"oid":50,
+			"target":"tanaka_tosa",
+			"Timestamp":"2014/9/23 11:23:36",
+			"latitude":37.495391,
+			"longitude":139.928561,
+			"altitude":300.0,
+			"speed":1.5,
+			"course":217.600006
+		}
+	],
+	"offset":0
+}
